@@ -1,0 +1,38 @@
+<DOCTYPE HTML>
+<html>
+    <head>
+        <body>
+            <script language=javascript type ="text/javascript">
+            function f(x){
+                var T = x**2;
+                return T
+            }
+            document.write(f(1));
+            document.write("<br>");
+            document.write(f(2));
+            document.write("<br>");
+            document.write(f(3));
+            document.write("<br>");
+            document.write(f(4));
+            document.write("<br>");
+            document.write(f(5));
+            document.write("<br>");
+            document.write(f(6));
+            document.write("<br>");
+            document.write(f(8));
+            document.write("<br>");
+            document.write(f(9));
+            document.write("<br>");
+            document.write(f(30));
+            document.write("<br>");
+            document.write(f(40));
+            document.write("<br>");
+            document.write(f(50));
+            document.write("<br>");
+            document.write(f(70));
+            document.write("<br>");
+    </script>
+    </body>
+</head>
+</html>
+</DOCTYPE>
